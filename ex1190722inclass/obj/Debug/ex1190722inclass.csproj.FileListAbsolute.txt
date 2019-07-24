@@ -1,0 +1,6 @@
+E:\01_CODING\AP\Ex1190722\ex1190722inclass\bin\Debug\ex1190722inclass.exe
+E:\01_CODING\AP\Ex1190722\ex1190722inclass\bin\Debug\ex1190722inclass.pdb
+E:\01_CODING\AP\Ex1190722\ex1190722inclass\obj\Debug\ex1190722inclass.csprojAssemblyReference.cache
+E:\01_CODING\AP\Ex1190722\ex1190722inclass\obj\Debug\ex1190722inclass.csproj.CoreCompileInputs.cache
+E:\01_CODING\AP\Ex1190722\ex1190722inclass\obj\Debug\ex1190722inclass.exe
+E:\01_CODING\AP\Ex1190722\ex1190722inclass\obj\Debug\ex1190722inclass.pdb
