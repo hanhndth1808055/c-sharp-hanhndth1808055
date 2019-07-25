@@ -1,0 +1,6 @@
+E:\01_CODING\AP\Ex1190722\ex2190724\bin\Debug\ex2190724.exe
+E:\01_CODING\AP\Ex1190722\ex2190724\bin\Debug\ex2190724.pdb
+E:\01_CODING\AP\Ex1190722\ex2190724\obj\Debug\ex2190724.csprojAssemblyReference.cache
+E:\01_CODING\AP\Ex1190722\ex2190724\obj\Debug\ex2190724.csproj.CoreCompileInputs.cache
+E:\01_CODING\AP\Ex1190722\ex2190724\obj\Debug\ex2190724.exe
+E:\01_CODING\AP\Ex1190722\ex2190724\obj\Debug\ex2190724.pdb
