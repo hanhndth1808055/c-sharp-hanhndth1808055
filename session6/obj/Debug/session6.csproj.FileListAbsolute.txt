@@ -1,0 +1,6 @@
+E:\01_CODING\AP\Ex1190722\session6\bin\Debug\session6.exe
+E:\01_CODING\AP\Ex1190722\session6\bin\Debug\session6.pdb
+E:\01_CODING\AP\Ex1190722\session6\obj\Debug\session6.csprojAssemblyReference.cache
+E:\01_CODING\AP\Ex1190722\session6\obj\Debug\session6.csproj.CoreCompileInputs.cache
+E:\01_CODING\AP\Ex1190722\session6\obj\Debug\session6.exe
+E:\01_CODING\AP\Ex1190722\session6\obj\Debug\session6.pdb

@@ -1,0 +1,6 @@
+E:\01_CODING\AP\Ex1190722\assignment6_190802\bin\Debug\assignment6_190802.exe
+E:\01_CODING\AP\Ex1190722\assignment6_190802\bin\Debug\assignment6_190802.pdb
+E:\01_CODING\AP\Ex1190722\assignment6_190802\obj\Debug\assignment6_190802.csprojAssemblyReference.cache
+E:\01_CODING\AP\Ex1190722\assignment6_190802\obj\Debug\assignment6_190802.csproj.CoreCompileInputs.cache
+E:\01_CODING\AP\Ex1190722\assignment6_190802\obj\Debug\assignment6_190802.exe
+E:\01_CODING\AP\Ex1190722\assignment6_190802\obj\Debug\assignment6_190802.pdb

@@ -1,0 +1,6 @@
+E:\01_CODING\AP\Ex1190722\session5_190729\bin\Debug\session5_190729.exe
+E:\01_CODING\AP\Ex1190722\session5_190729\bin\Debug\session5_190729.pdb
+E:\01_CODING\AP\Ex1190722\session5_190729\obj\Debug\session5_190729.csprojAssemblyReference.cache
+E:\01_CODING\AP\Ex1190722\session5_190729\obj\Debug\session5_190729.csproj.CoreCompileInputs.cache
+E:\01_CODING\AP\Ex1190722\session5_190729\obj\Debug\session5_190729.exe
+E:\01_CODING\AP\Ex1190722\session5_190729\obj\Debug\session5_190729.pdb

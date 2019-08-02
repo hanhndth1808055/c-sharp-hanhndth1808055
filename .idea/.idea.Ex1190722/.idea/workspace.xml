@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebc9cefd-df8c-4c6f-9ca3-3c532dd13d75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assignment4_190727/Phone.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment4_190727/PhoneBook.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment4_190727/PhoneItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment5_190802/Cart.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment5_190802/IProduct.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment5_190802/Product.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment5_190802/Shoes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5_190729/Phone.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5_190729/PhoneBook.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session5_190729/PhoneNumber.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session6/Session6.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ex1190722/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ex1190722/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ex1190722/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ex1190722/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex1190722.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1190722.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment3_190725/obj/Debug/assignment3_190725.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3_190725/obj/Debug/assignment3_190725.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment4_190727/bin/Debug/assignment4_190727.exe" beforeDir="false" afterPath="$PROJECT_DIR$/assignment4_190727/bin/Debug/assignment4_190727.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment4_190727/bin/Debug/assignment4_190727.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/assignment4_190727/bin/Debug/assignment4_190727.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment4_190727/obj/Debug/assignment4_190727.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/assignment4_190727/obj/Debug/assignment4_190727.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment4_190727/obj/Debug/assignment4_190727.exe" beforeDir="false" afterPath="$PROJECT_DIR$/assignment4_190727/obj/Debug/assignment4_190727.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment4_190727/obj/Debug/assignment4_190727.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/assignment4_190727/obj/Debug/assignment4_190727.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,51 +30,40 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assignment4_190727/ManagePhoneBook.cs">
+            <entry file="file://$PROJECT_DIR$/session6/Session6.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="160">
-                  <caret line="60" column="40" lean-forward="true" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+                <state relative-caret-position="136">
+                  <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
                   <folding>
-                    <marker date="1564381121081" expanded="true" signature="43:2372" ph="{...}" />
-                    <marker date="1564381121081" expanded="true" signature="72:2370" ph="{...}" />
-                    <marker date="1564381121081" expanded="true" signature="187:941" ph="{...}" />
-                    <marker date="1564381121081" expanded="true" signature="255:931" ph="{...}" />
-                    <marker date="1564381121081" expanded="true" signature="391:917" ph="{...}" />
-                    <marker date="1564381121081" expanded="true" signature="980:1304" ph="{...}" />
-                    <marker date="1564381121081" expanded="true" signature="1346:1625" ph="{...}" />
-                    <marker date="1564381121081" expanded="true" signature="1667:1829" ph="{...}" />
-                    <marker date="1564381121081" expanded="true" signature="1871:2160" ph="{...}" />
-                    <marker date="1564381121081" expanded="true" signature="2202:2364" ph="{...}" />
+                    <marker date="1564753110755" expanded="true" signature="6:37" ph="..." />
+                    <marker date="1564753110755" expanded="true" signature="57:613" ph="{...}" />
+                    <marker date="1564753110755" expanded="true" signature="87:611" ph="{...}" />
+                    <marker date="1564753110755" expanded="true" signature="140:605" ph="{...}" />
+                    <marker date="1564753110755" expanded="true" signature="254:509" ph="{...}" />
+                    <marker date="1564753110755" expanded="true" signature="322:491" ph="{...}" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/assignment4_190727/PhoneBook.cs">
+            <entry file="file://$PROJECT_DIR$/assignment6_190802/Program.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="229">
-                  <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+                <state relative-caret-position="554">
+                  <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
                   <folding>
-                    <marker date="1564381183877" expanded="true" signature="6:97" ph="..." />
-                    <marker date="1564381183877" expanded="true" signature="127:2078" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="164:2076" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="312:964" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="398:779" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="469:565" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="622:765" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="803:925" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="1018:1245" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="1073:1208" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="1121:1195" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="1316:1543" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="1371:1506" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="1419:1493" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="1597:1854" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="1652:1845" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="1700:1832" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="1890:2070" ph="{...}" />
-                    <marker date="1564381183877" expanded="true" signature="1945:2061" ph="{...}" />
+                    <marker date="1564759297280" expanded="false" signature="6:156" ph="..." />
+                    <marker date="1564759297280" expanded="true" signature="186:2593" ph="{...}" />
+                    <marker date="1564759297280" expanded="true" signature="216:2591" ph="{...}" />
+                    <marker date="1564759297280" expanded="true" signature="340:2408" ph="{...}" />
+                    <marker date="1564759297280" expanded="true" signature="485:744" ph="{...}" />
+                    <marker date="1564759297280" expanded="true" signature="553:726" ph="{...}" />
+                    <marker date="1564759297280" expanded="true" signature="953:2345" ph="{...}" />
+                    <marker date="1564759297280" expanded="true" signature="1130:2305" ph="{...}" />
+                    <marker date="1564759297280" expanded="true" signature="1223:1522" ph="{...}" />
+                    <marker date="1564759297280" expanded="true" signature="1594:1894" ph="{...}" />
+                    <marker date="1564759297280" expanded="true" signature="1967:2279" ph="{...}" />
+                    <marker date="1564759297280" expanded="true" signature="2451:2585" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -74,15 +72,19 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/assignment4_190727/Phone.cs">
+            <entry file="file://$PROJECT_DIR$/session6/Session6.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+                <state relative-caret-position="255">
+                  <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
                   <folding>
-                    <marker date="1564240281533" expanded="true" signature="43:343" ph="{...}" />
-                    <marker date="1564240281533" expanded="true" signature="77:341" ph="{...}" />
+                    <marker date="1564753110755" expanded="true" signature="6:37" ph="..." />
+                    <marker date="1564753110755" expanded="true" signature="57:613" ph="{...}" />
+                    <marker date="1564753110755" expanded="true" signature="87:611" ph="{...}" />
+                    <marker date="1564753110755" expanded="true" signature="140:605" ph="{...}" />
+                    <marker date="1564753110755" expanded="true" signature="254:509" ph="{...}" />
+                    <marker date="1564753110755" expanded="true" signature="322:491" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -102,16 +104,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/session6/Session6.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/assignment6_190802/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ex1190722inclass/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ex2190724/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/session5-ex/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/session5_190729/Session5.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/assignment5_190802/IProduct.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/assignment5_190802/Shoes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/assignment5_190802/Product.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/assignment3_190725/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/assignment5_190802/Cart.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ex2190724/Product.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/assignment4_190727/Phone.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/assignment4_190727/PhoneBook.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ex1190722inclass/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/session5_190729/Phone.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/assignment3_190725/INews.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/assignment4_190727/ManagePhoneBook.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/assignment4_190727/PhoneItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/session5_190729/PhoneBook.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/assignment3_190725/News.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ex2190724/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/session5_190729/PhoneNumber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/assignment5_190802/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ex2190724/Cart.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -136,40 +150,40 @@
         <option value="$PROJECT_DIR$/assignment4_190727/PhoneBook.cs" />
         <option value="$PROJECT_DIR$/assignment4_190727/ManagePhoneBook.cs" />
         <option value="$PROJECT_DIR$/assignment4_190727/PhoneBook.cs" />
+        <option value="$PROJECT_DIR$/assignment4_190727/Sesson5.cs" />
+        <option value="$PROJECT_DIR$/session5/Program.cs" />
+        <option value="$PROJECT_DIR$/session5_190729/Program.cs" />
+        <option value="$PROJECT_DIR$/assignment4_190727/Sesson5.cs" />
+        <option value="$PROJECT_DIR$/session5_190729/PhoneNumber.cs" />
+        <option value="$PROJECT_DIR$/session5_190729/PhoneBook.cs" />
+        <option value="$PROJECT_DIR$/session5_190729/Phone.cs" />
+        <option value="$PROJECT_DIR$/session5_190729/Session5.cs" />
+        <option value="$PROJECT_DIR$/assignment4_190727/ManagePhoneBook.cs" />
+        <option value="$PROJECT_DIR$/session5-ex/Program.cs" />
+        <option value="$PROJECT_DIR$/assignment6_190802/Program.cs" />
+        <option value="$PROJECT_DIR$/assignment6_190802/IProduct.cs" />
+        <option value="$PROJECT_DIR$/assignment6_190802/Product.cs" />
+        <option value="$PROJECT_DIR$/assignment6_190802/Cart.cs" />
+        <option value="$PROJECT_DIR$/assignment6_190802/Shoes.cs" />
+        <option value="$PROJECT_DIR$/session6/Program.cs" />
+        <option value="$PROJECT_DIR$/session6/Session6.cs" />
+        <option value="$PROJECT_DIR$/assignment6_190802/Program.cs" />
+        <option value="$PROJECT_DIR$/assignment6_190802/Program.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="width" value="607" />
-    <option name="height" value="877" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="SolutionExplorer" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Ex1190722" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Ex1190722" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="assignment4_190727" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-all-files" value="false" />
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -191,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.Assignment4">
+  <component name="RunManager" selected=".NET Project.assignment6">
     <configuration name="Assignment3" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/assignment3_190725/bin/Debug/assignment3_190725.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -201,24 +215,6 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/assignment3_190725/assignment3_190725.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.2" />
-      <method v="2">
-        <option name="Build" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Assignment4" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/assignment4_190727/bin/Debug/assignment4_190727.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment4_190727/bin/Debug" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/assignment4_190727/assignment4_190727.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -246,6 +242,42 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Unnamed" type="DotNetProject" factoryName=".NET Project" nameIsGenerated="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ex1190722inclass/bin/Debug/ex1190722inclass.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex1190722inclass/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ex1190722inclass/ex1190722inclass.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignment6" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/assignment6_190802/bin/Debug/assignment6_190802.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment6_190802/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/assignment6_190802/assignment6_190802.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ex2190724" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/ex2190724/bin/Debug/ex2190724.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -264,8 +296,66 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="rewritesession5" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/session5-ex/bin/Debug/session5_ex.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session5-ex/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/session5-ex/session5-ex.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="session5" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/session5_190729/bin/Debug/session5_190729.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session5_190729/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/session5_190729/session5_190729.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="session6" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/session6/bin/Debug/session6.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session6/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/session6/session6.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue=".NET Project.Assignment4" />
+      <item itemvalue=".NET Project.rewritesession5" />
+      <item itemvalue=".NET Project.Unnamed" />
+      <item itemvalue=".NET Project.session6" />
+      <item itemvalue=".NET Project.assignment6" />
+      <item itemvalue=".NET Project.session5" />
       <item itemvalue=".NET Project.Default" />
       <item itemvalue=".NET Project.ex2190724" />
       <item itemvalue=".NET Project.Assignment3" />
@@ -288,12 +378,20 @@
       <workItem from="1564066957661" duration="3386000" />
       <workItem from="1564227809855" duration="3416000" />
       <workItem from="1564237647129" duration="4049000" />
-      <workItem from="1564368431295" duration="4681000" />
+      <workItem from="1564368431295" duration="5419000" />
+      <workItem from="1564405927790" duration="2058000" />
+      <workItem from="1564408787393" duration="68000" />
+      <workItem from="1564408863605" duration="658000" />
+      <workItem from="1564413147148" duration="2136000" />
+      <workItem from="1564746938295" duration="1285000" />
+      <workItem from="1564749091731" duration="1749000" />
+      <workItem from="1564752548092" duration="2694000" />
+      <workItem from="1564758368612" duration="929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26642000" />
+    <option name="totallyTimeSpent" value="38957000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -308,12 +406,12 @@
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15606937" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17627998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32985657" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.10512129" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -326,7 +424,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" weight="0.32985657" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="15" weight="0.32985657" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.76145554" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -354,28 +452,6 @@
     <entry file="file://$PROJECT_DIR$/Ex1190722.sln">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex2190724/Cart.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
-          <folding>
-            <marker date="1564056599956" expanded="true" signature="6:47" ph="..." />
-            <marker date="1564056599956" expanded="true" signature="68:2628" ph="{...}" />
-            <marker date="1564056599956" expanded="true" signature="92:2626" ph="{...}" />
-            <marker date="1564056599956" expanded="true" signature="385:535" ph="{...}" />
-            <marker date="1564056599956" expanded="true" signature="558:578" ph="{...}" />
-            <marker date="1564056599956" expanded="true" signature="612:1709" ph="{...}" />
-            <marker date="1564056599956" expanded="true" signature="1606:1666" ph="{...}" />
-            <marker date="1564056599956" expanded="true" signature="1746:1939" ph="{...}" />
-            <marker date="1564056599956" expanded="true" signature="1982:2620" ph="{...}" />
-            <marker date="1564056599956" expanded="true" signature="2076:2177" ph="{...}" />
-            <marker date="1564056599956" expanded="true" signature="2216:2292" ph="{...}" />
-            <marker date="1564056599956" expanded="true" signature="2379:2455" ph="{...}" />
-            <marker date="1564056599956" expanded="true" signature="2472:2548" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex1190722inclass/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -390,45 +466,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex2190724/Product.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <marker date="1563977227460" expanded="true" signature="6:47" ph="..." />
-            <marker date="1563977227460" expanded="true" signature="68:2813" ph="{...}" />
-            <marker date="1563977227460" expanded="true" signature="95:2811" ph="{...}" />
-            <marker date="1563977227460" expanded="true" signature="415:613" ph="{...}" />
-            <marker date="1563977227460" expanded="true" signature="639:659" ph="{...}" />
-            <marker date="1563977227460" expanded="true" signature="690:1058" ph="{...}" />
-            <marker date="1563977227460" expanded="true" signature="945:1048" ph="{...}" />
-            <marker date="1563977227460" expanded="true" signature="1096:1319" ph="{...}" />
-            <marker date="1563977227460" expanded="true" signature="1131:1235" ph="{...}" />
-            <marker date="1563977227460" expanded="true" signature="1356:1820" ph="{...}" />
-            <marker date="1563977227460" expanded="true" signature="1471:1574" ph="{...}" />
-            <marker date="1563977227460" expanded="true" signature="1854:2805" ph="{...}" />
-            <marker date="1563977227460" expanded="true" signature="1931:2107" ph="{...}" />
-            <marker date="1563977227460" expanded="true" signature="2141:2795" ph="{...}" />
-            <marker date="1563977227460" expanded="true" signature="2402:2635" ph="{...}" />
-            <marker date="1563977227460" expanded="true" signature="2673:2781" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment3_190725/Program.cs" />
-    <entry file="file://$PROJECT_DIR$/ex2190724/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-          <folding>
-            <marker date="1564056902003" expanded="true" signature="19:1034" ph="{...}" />
-            <marker date="1564056902003" expanded="true" signature="48:1032" ph="{...}" />
-            <marker date="1564056902003" expanded="true" signature="101:1026" ph="{...}" />
-            <marker date="1564056902003" expanded="true" signature="356:1016" ph="/* Product p = new Product(1, &quot;Oppo mobile&quot;, 60, 2, &quot;Imagelink1&quot;, &quot;Description mobile.&quot;); ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment3_190725/INews.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -505,10 +543,120 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/session5/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/assignment4_190727/Sesson5.cs" />
+    <entry file="file://$PROJECT_DIR$/assignment4_190727/PhoneBook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="75" column="26" lean-forward="true" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
+          <folding>
+            <marker date="1564381626515" expanded="true" signature="6:97" ph="..." />
+            <marker date="1564381626515" expanded="true" signature="127:2118" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="164:2116" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="312:964" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="398:779" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="469:565" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="622:765" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="803:925" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="1018:1285" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="1080:1237" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="1139:1224" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="1356:1583" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="1411:1546" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="1459:1533" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="1637:1894" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="1692:1885" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="1740:1872" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="1930:2110" ph="{...}" />
+            <marker date="1564381626515" expanded="true" signature="1985:2101" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session5_190729/PhoneBook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding>
+            <marker date="1564409099744" expanded="true" signature="6:47" ph="..." />
+            <marker date="1564409099744" expanded="true" signature="74:2220" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="164:2218" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="346:929" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="391:472" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="521:838" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="576:824" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="642:771" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="984:1259" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="1043:1222" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="1098:1208" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="1331:1821" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="1390:1784" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="1445:1770" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="1548:1639" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="1866:1920" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="1982:2212" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="2041:2176" ph="{...}" />
+            <marker date="1564409099744" expanded="true" signature="2096:2162" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session5_190729/PhoneNumber.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564409073165" expanded="true" signature="25:485" ph="{...}" />
+            <marker date="1564409073165" expanded="true" signature="56:483" ph="{...}" />
+            <marker date="1564409073165" expanded="true" signature="180:262" ph="{...}" />
+            <marker date="1564409073165" expanded="true" signature="290:368" ph="{...}" />
+            <marker date="1564409073165" expanded="true" signature="397:477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session5_190729/Session5.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding>
+            <marker date="1564409220030" expanded="true" signature="40:1475" ph="{...}" />
+            <marker date="1564409220030" expanded="true" signature="119:1473" ph="{...}" />
+            <marker date="1564409220030" expanded="true" signature="172:1132" ph="{...}" />
+            <marker date="1564409220030" expanded="true" signature="439:482" ph="/* s1 += s2; ... */" />
+            <marker date="1564409220030" expanded="true" signature="535:654" ph="/* s2 = s2 + s3; ... */" />
+            <marker date="1564409220030" expanded="true" signature="1181:1244" ph="{...}" />
+            <marker date="1564409220030" expanded="true" signature="1288:1359" ph="{...}" />
+            <marker date="1564409220030" expanded="true" signature="1405:1467" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex2190724/Cart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <marker date="1564056599956" expanded="true" signature="6:47" ph="..." />
+            <marker date="1564056599956" expanded="true" signature="68:2628" ph="{...}" />
+            <marker date="1564056599956" expanded="true" signature="92:2626" ph="{...}" />
+            <marker date="1564056599956" expanded="true" signature="385:535" ph="{...}" />
+            <marker date="1564056599956" expanded="true" signature="558:578" ph="{...}" />
+            <marker date="1564056599956" expanded="true" signature="612:1709" ph="{...}" />
+            <marker date="1564056599956" expanded="true" signature="1606:1666" ph="{...}" />
+            <marker date="1564056599956" expanded="true" signature="1746:1939" ph="{...}" />
+            <marker date="1564056599956" expanded="true" signature="1982:2620" ph="{...}" />
+            <marker date="1564056599956" expanded="true" signature="2076:2177" ph="{...}" />
+            <marker date="1564056599956" expanded="true" signature="2216:2292" ph="{...}" />
+            <marker date="1564056599956" expanded="true" signature="2379:2455" ph="{...}" />
+            <marker date="1564056599956" expanded="true" signature="2472:2548" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assignment4_190727/Phone.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding>
             <marker date="1564240281533" expanded="true" signature="43:343" ph="{...}" />
             <marker date="1564240281533" expanded="true" signature="77:341" ph="{...}" />
@@ -516,49 +664,227 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment4_190727/ManagePhoneBook.cs">
+    <entry file="file://$PROJECT_DIR$/session5_190729/Phone.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="60" column="40" lean-forward="true" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
-            <marker date="1564381121081" expanded="true" signature="43:2372" ph="{...}" />
-            <marker date="1564381121081" expanded="true" signature="72:2370" ph="{...}" />
-            <marker date="1564381121081" expanded="true" signature="187:941" ph="{...}" />
-            <marker date="1564381121081" expanded="true" signature="255:931" ph="{...}" />
-            <marker date="1564381121081" expanded="true" signature="391:917" ph="{...}" />
-            <marker date="1564381121081" expanded="true" signature="980:1304" ph="{...}" />
-            <marker date="1564381121081" expanded="true" signature="1346:1625" ph="{...}" />
-            <marker date="1564381121081" expanded="true" signature="1667:1829" ph="{...}" />
-            <marker date="1564381121081" expanded="true" signature="1871:2160" ph="{...}" />
-            <marker date="1564381121081" expanded="true" signature="2202:2364" ph="{...}" />
+            <marker date="1564409162671" expanded="true" signature="25:331" ph="{...}" />
+            <marker date="1564409162671" expanded="true" signature="59:329" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment4_190727/PhoneBook.cs">
+    <entry file="file://$PROJECT_DIR$/assignment4_190727/ManagePhoneBook.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
           <folding>
-            <marker date="1564381183877" expanded="true" signature="6:97" ph="..." />
-            <marker date="1564381183877" expanded="true" signature="127:2078" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="164:2076" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="312:964" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="398:779" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="469:565" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="622:765" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="803:925" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="1018:1245" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="1073:1208" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="1121:1195" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="1316:1543" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="1371:1506" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="1419:1493" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="1597:1854" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="1652:1845" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="1700:1832" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="1890:2070" ph="{...}" />
-            <marker date="1564381183877" expanded="true" signature="1945:2061" ph="{...}" />
+            <marker date="1564747437249" expanded="true" signature="43:2372" ph="{...}" />
+            <marker date="1564747437249" expanded="true" signature="72:2370" ph="{...}" />
+            <marker date="1564747437249" expanded="true" signature="187:941" ph="{...}" />
+            <marker date="1564747437249" expanded="true" signature="255:931" ph="{...}" />
+            <marker date="1564747437249" expanded="true" signature="391:917" ph="{...}" />
+            <marker date="1564747437249" expanded="true" signature="980:1304" ph="{...}" />
+            <marker date="1564747437249" expanded="true" signature="1346:1625" ph="{...}" />
+            <marker date="1564747437249" expanded="true" signature="1667:1829" ph="{...}" />
+            <marker date="1564747437249" expanded="true" signature="1871:2160" ph="{...}" />
+            <marker date="1564747437249" expanded="true" signature="2202:2364" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5_190802/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <marker date="1564750844184" expanded="true" signature="37:78" ph="..." />
+            <marker date="1564750844184" expanded="true" signature="103:4905" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="131:4902" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="493:560" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="669:914" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="953:1226" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="979:1053" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="1069:1216" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="1122:1202" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="1261:1335" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="1363:1441" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="1471:1940" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="1523:1930" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="1609:1717" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="1778:1885" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="1964:2411" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="2014:2401" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="2081:2187" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="2244:2358" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="2440:2520" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="2548:2626" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="2666:2969" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="3008:3464" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="3388:3454" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="3496:3624" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="3531:3588" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="3668:3900" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="3714:3805" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="3935:4185" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="3981:4116" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="4222:4552" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="4297:4392" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="4594:4887" ph="{...}" />
+            <marker date="1564750844184" expanded="true" signature="4639:4779" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5_190802/Shoes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <marker date="1564750844273" expanded="true" signature="6:53" ph="..." />
+            <marker date="1564750844273" expanded="true" signature="83:620" ph="{...}" />
+            <marker date="1564750844273" expanded="true" signature="127:618" ph="{...}" />
+            <marker date="1564750844273" expanded="true" signature="170:203" ph="{...}" />
+            <marker date="1564750844273" expanded="true" signature="259:366" ph="{...}" />
+            <marker date="1564750844273" expanded="true" signature="407:440" ph="{...}" />
+            <marker date="1564750844273" expanded="true" signature="484:612" ph="{...}" />
+            <marker date="1564750844273" expanded="true" signature="519:576" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5_190802/IProduct.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <marker date="1564750562189" expanded="true" signature="28:129" ph="{...}" />
+            <marker date="1564750562189" expanded="true" signature="60:127" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex2190724/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <marker date="1563977227460" expanded="true" signature="6:47" ph="..." />
+            <marker date="1563977227460" expanded="true" signature="68:2813" ph="{...}" />
+            <marker date="1563977227460" expanded="true" signature="95:2811" ph="{...}" />
+            <marker date="1563977227460" expanded="true" signature="415:613" ph="{...}" />
+            <marker date="1563977227460" expanded="true" signature="639:659" ph="{...}" />
+            <marker date="1563977227460" expanded="true" signature="690:1058" ph="{...}" />
+            <marker date="1563977227460" expanded="true" signature="945:1048" ph="{...}" />
+            <marker date="1563977227460" expanded="true" signature="1096:1319" ph="{...}" />
+            <marker date="1563977227460" expanded="true" signature="1131:1235" ph="{...}" />
+            <marker date="1563977227460" expanded="true" signature="1356:1820" ph="{...}" />
+            <marker date="1563977227460" expanded="true" signature="1471:1574" ph="{...}" />
+            <marker date="1563977227460" expanded="true" signature="1854:2805" ph="{...}" />
+            <marker date="1563977227460" expanded="true" signature="1931:2107" ph="{...}" />
+            <marker date="1563977227460" expanded="true" signature="2141:2795" ph="{...}" />
+            <marker date="1563977227460" expanded="true" signature="2402:2635" ph="{...}" />
+            <marker date="1563977227460" expanded="true" signature="2673:2781" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session5-ex/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <marker date="1564748231210" expanded="true" signature="111:1030" ph="{...}" />
+            <marker date="1564748231210" expanded="true" signature="164:683" ph="{...}" />
+            <marker date="1564748231210" expanded="true" signature="353:436" ph="/* s1 += s2; ... */" />
+            <marker date="1564748231210" expanded="true" signature="732:798" ph="{...}" />
+            <marker date="1564748231210" expanded="true" signature="842:914" ph="{...}" />
+            <marker date="1564748231210" expanded="true" signature="960:1024" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex2190724/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <marker date="1564056902003" expanded="true" signature="48:1032" ph="{...}" />
+            <marker date="1564056902003" expanded="true" signature="101:1026" ph="{...}" />
+            <marker date="1564056902003" expanded="true" signature="356:1016" ph="/* Product p = new Product(1, &quot;Oppo mobile&quot;, 60, 2, &quot;Imagelink1&quot;, &quot;Description mobile.&quot;); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5_190802/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1564749459445" expanded="true" signature="28:138" ph="{...}" />
+            <marker date="1564749459445" expanded="true" signature="57:136" ph="{...}" />
+            <marker date="1564749459445" expanded="true" signature="110:130" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment5_190802/Cart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <marker date="1564750844319" expanded="true" signature="7:88" ph="..." />
+            <marker date="1564750844319" expanded="true" signature="118:2080" ph="{...}" />
+            <marker date="1564750844319" expanded="true" signature="191:2078" ph="{...}" />
+            <marker date="1564750844319" expanded="true" signature="501:555" ph="{...}" />
+            <marker date="1564750844319" expanded="true" signature="606:1159" ph="{...}" />
+            <marker date="1564750844319" expanded="true" signature="674:1059" ph="{...}" />
+            <marker date="1564750844319" expanded="true" signature="842:940" ph="{...}" />
+            <marker date="1564750844319" expanded="true" signature="1205:1519" ph="{...}" />
+            <marker date="1564750844319" expanded="true" signature="1256:1416" ph="{...}" />
+            <marker date="1564750844319" expanded="true" signature="1559:2072" ph="{...}" />
+            <marker date="1564750844319" expanded="true" signature="1634:1928" ph="{...}" />
+            <marker date="1564750844319" expanded="true" signature="1699:1796" ph="{...}" />
+            <marker date="1564750844319" expanded="true" signature="1817:1914" ph="{...}" />
+            <marker date="1564750844319" expanded="true" signature="1945:2030" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session6/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/session6/Session6.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <marker date="1564753110755" expanded="true" signature="6:37" ph="..." />
+            <marker date="1564753110755" expanded="true" signature="57:613" ph="{...}" />
+            <marker date="1564753110755" expanded="true" signature="87:611" ph="{...}" />
+            <marker date="1564753110755" expanded="true" signature="140:605" ph="{...}" />
+            <marker date="1564753110755" expanded="true" signature="254:509" ph="{...}" />
+            <marker date="1564753110755" expanded="true" signature="322:491" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment6_190802/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+          <folding>
+            <marker date="1564759297280" expanded="false" signature="6:156" ph="..." />
+            <marker date="1564759297280" expanded="true" signature="186:2593" ph="{...}" />
+            <marker date="1564759297280" expanded="true" signature="216:2591" ph="{...}" />
+            <marker date="1564759297280" expanded="true" signature="340:2408" ph="{...}" />
+            <marker date="1564759297280" expanded="true" signature="485:744" ph="{...}" />
+            <marker date="1564759297280" expanded="true" signature="553:726" ph="{...}" />
+            <marker date="1564759297280" expanded="true" signature="953:2345" ph="{...}" />
+            <marker date="1564759297280" expanded="true" signature="1130:2305" ph="{...}" />
+            <marker date="1564759297280" expanded="true" signature="1223:1522" ph="{...}" />
+            <marker date="1564759297280" expanded="true" signature="1594:1894" ph="{...}" />
+            <marker date="1564759297280" expanded="true" signature="1967:2279" ph="{...}" />
+            <marker date="1564759297280" expanded="true" signature="2451:2585" ph="{...}" />
           </folding>
         </state>
       </provider>
