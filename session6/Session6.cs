@@ -14,7 +14,7 @@ namespace session6
                     for (int j = 59; j >= 0; j--)
                     {
                         Console.WriteLine(i.ToString("D2")+":"+j.ToString("D2"));
-                        Thread.Sleep(100);
+                        Thread.Sleep(1000);
                     }
                 }
                 Console.WriteLine("Boom...");
