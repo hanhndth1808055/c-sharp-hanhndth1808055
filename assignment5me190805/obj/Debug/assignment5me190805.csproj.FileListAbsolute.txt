@@ -1,0 +1,6 @@
+E:\01_CODING\AP\Ex1190722\assignment5me190805\bin\Debug\assignment5me190805.exe
+E:\01_CODING\AP\Ex1190722\assignment5me190805\bin\Debug\assignment5me190805.pdb
+E:\01_CODING\AP\Ex1190722\assignment5me190805\obj\Debug\assignment5me190805.csprojAssemblyReference.cache
+E:\01_CODING\AP\Ex1190722\assignment5me190805\obj\Debug\assignment5me190805.csproj.CoreCompileInputs.cache
+E:\01_CODING\AP\Ex1190722\assignment5me190805\obj\Debug\assignment5me190805.exe
+E:\01_CODING\AP\Ex1190722\assignment5me190805\obj\Debug\assignment5me190805.pdb
